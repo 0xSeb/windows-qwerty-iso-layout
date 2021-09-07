@@ -30,6 +30,6 @@ Here is what it looks like :
 ![iso qwerty altgr layout image](imgs/altgr_layout.PNG)
 
 # Useful links
-Thanks a lot [ZOLID](http://zolid.com/uk-intl-kb/index.htm) for their tutorial on how to achieve this.
-[Complete Character List for UTF-16](https://www.fileformat.info/info/charset/UTF-16/list.htm)
-[How to change keyboard layout on Windows 10](https://www.windowscentral.com/how-change-your-keyboard-layout-windows-10)
+* Thanks a lot [ZOLID](http://zolid.com/uk-intl-kb/index.htm) for their tutorial on how to achieve this.
+* [Complete Character List for UTF-16](https://www.fileformat.info/info/charset/UTF-16/list.htm)
+* [How to change keyboard layout on Windows 10](https://www.windowscentral.com/how-change-your-keyboard-layout-windows-10)
